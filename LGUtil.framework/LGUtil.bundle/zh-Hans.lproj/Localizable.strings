@@ -1,0 +1,84 @@
+/* 
+  Localizable.strings
+  AisenIndustryGroup
+
+  Created by linguang on 16/6/1.
+  Copyright © 2016年 Aisen. All rights reserved.
+*/
+
+//MARK: LG
+"LGSave" = "保存";
+"LGSaving" = "正在保存...";
+"LGImageNotExist" = "图片不存在";
+"LGSaveSuccess" = "保存成功";
+"LGSaveFailed" = "保存失败";
+"LGImageBrowse" = "图片浏览";
+"LGCancel" = "取消";
+"LGOpen" = "打开";
+"LGSure" = "确认";
+"LGShare" = "分享";
+"LGSaveToPhoto" = "保存到手机";
+"LGScanImageCode" = "识别图中二维码";
+"LGScanMultiCode" = "扫描出多个二维码";
+"LGSureOpenUrl" = "是否打开链接？";
+"LGInvalidContent" = "无效内容";
+"LGGroupTitle" = "相册";
+"LGGroupNoImageTitle" = "没有找到照片或视频";
+"LGGroupNoImageDescription" = "您可以使用 iTunes 将照片和视频\n同步到 iPhone。";
+"LGGroupLockTitle" = "此应用程序没有权限来访问您的照片或视频";
+"LGGroupLockDescription" = "您可以在“隐私设置”中启用访问";
+"LGGroupNextStep" = "下一步";
+"LGGroupMaxSelectImage" = "最多只能选择%@张图片";
+"LGGroupInvalidTakePhoto" = "无法使用相机";
+"LGGroupInvalidTakePhotoDescription" = "请在iPhone的\"设置-隐私-相机\"允许访问相机。";
+"LGGroupImporting" = "正在导入";
+"LGGroupSelect" = "选取";
+"LGPhoneNull" = "没有找到电话号码";
+"LGPhoneNotSupportDevice" = "您的设备不支持打电话";
+"LGEditViewMaxLimitPrompt" = "超出字数限制";
+"LGEditViewMinLimitPrompt" = "字数不够";
+"LGEditViewOver" = "已超出";
+"LGEditViewCanInput" = "您还可以输入";
+"LGEditViewWord" = "字";
+"LGWebOpenInSafari" = "在浏览器中打开";
+"LGBack" = "返回";
+"LGSearch" = "搜索";
+"LGSearchPrompt" = "请输入搜索内容";
+"LGEmptyContent" = "没有内容";
+"LGRequestFailed" = "请求失败，稍候请重新尝试";
+"LGRequestConnectFailed" = "网络连接错误，请检查网络";
+"LGRequestTimeOut" = "请求已超时，稍候请重新尝试";
+"LGRequestCancel" = "请求已取消，稍候请重新尝试";
+"LGRequestErrorFormat" = "请求格式错误，稍候请重新尝试";
+"LGPhotoPrompt" = "请在纯色背景下拍照";
+"LGRetakePhoto" = "重拍";
+"LGUsePhoto" = "使用照片";
+"LGOneMinute" = "1分钟内";
+"LGMinutesAgo" = "%.f分钟前";
+"LGHoursAgo" = "%.f小时前";
+"LGDaysAgo" = "%.f天前";
+"LGMonthDay" = "M月d日";
+"LGYearsAgo" = "%.f年前";
+"LGYesterDayHoursMinutes" = "昨天HH:mm";
+"LGMorningHoursMinutes" = "凌晨hh:mm";
+"LGAMHoursMinutes" = "上午hh:mm";
+"LGPMHoursMinutes" = "下午hh:mm";
+"LGEveningHoursMinutes" = "晚上hh:mm";
+
+//MARK: MJRefresh
+"MJRefreshHeaderIdleText" = "下拉可以刷新";
+"MJRefreshHeaderPullingText" = "松开立即刷新";
+"MJRefreshHeaderRefreshingText" = "正在刷新数据中...";
+
+"MJRefreshAutoFooterIdleText" = "上拉加载更多";
+"MJRefreshAutoFooterRefreshingText" = "正在加载...";
+"MJRefreshAutoFooterNoMoreDataText" = "已经全部加载完毕";
+
+"MJRefreshBackFooterIdleText" = "上拉可以加载更多";
+"MJRefreshBackFooterPullingText" = "松开立即加载更多";
+"MJRefreshBackFooterRefreshingText" = "正在加载更多的数据...";
+"MJRefreshBackFooterNoMoreDataText" = "已经全部加载完毕";
+
+"MJRefreshHeaderLastTimeText" = "最后更新：";
+"MJRefreshHeaderDateTodayText" = "今天";
+"MJRefreshHeaderNoneLastDateText" = "无记录";

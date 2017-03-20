@@ -1,0 +1,6 @@
+framework module LGUtil {
+  umbrella header "LGUtil.h"
+
+  export *
+  module * { export * }
+}

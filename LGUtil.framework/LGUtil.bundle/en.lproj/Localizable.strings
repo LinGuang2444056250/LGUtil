@@ -1,0 +1,83 @@
+/* 
+  Localizable.strings
+  AisenIndustryGroup
+
+  Created by linguang on 16/6/1.
+  Copyright © 2016年 Aisen. All rights reserved.
+*/
+//MARK: LG
+"LGSave" = "save";
+"LGSaving" = "saving...";
+"LGImageNotExist" = "image not exist";
+"LGSaveSuccess" = "save successed";
+"LGSaveFailed" = "save failed";
+"LGImageBrowse" = "photo browser";
+"LGCancel" = "cancel";
+"LGOpen" = "open";
+"LGSure" = "sure";
+"LGShare" = "share";
+"LGSaveToPhoto" = "save to iphone";
+"LGScanImageCode" = "scan QR code";
+"LGScanMultiCode" = "scan multi QR code";
+"LGSureOpenUrl" = "open the link? ";
+"LGInvalidContent" = "invalid content"";
+"LGGroupTitle" = "album";
+"LGGroupNoImageTitle" = "no photos or videos";
+"LGGroupNoImageDescription" = "you can use iTunes to sync photos and video where iPhone \n. ";
+"LGGroupLockTitle" = "this application does not have permission to access your photos or videos";
+"LGGroupLockDescription" = "you can enable access in the\" privacy settings \"";
+"LGGroupNextStep" = "next";
+"LGGroupMaxSelectImage" = "%@ most can only choose picture";
+"LGGroupInvalidTakePhoto" = "unable to use the camera";
+"LGGroupInvalidTakePhotoDescription" = "please set in iPhone \" - Privacy - the camera \" allows access to the camera. ";
+"LGGroupImporting" = "importing";
+"LGGroupSelect" = "select";
+"LGPhoneNull" = "phone number found";
+"LGPhoneNotSupportDevice" = "your device does not support calling";
+"LGEditViewMaxLimitPrompt" = "beyond the word limit";
+"LGEditViewMinLimitPrompt" = "words are not enough";
+"LGEditViewOver" = "beyond";
+"LGEditViewCanInput" = "you can also enter";
+"LGEditViewWord" = "word";
+"LGWebOpenInSafari" = "open in browser";
+"LGBack" = "back";
+"LGSearch" = "search";
+"LGSearchPrompt" = "please enter the search content";
+"LGEmptyContent" = "no content";
+"LGRequestFailed" = "request failed, please try again later";
+"LGRequestConnectFailed" = "network connection error, please check the network";
+"LGRequestTimeOut" = "request has timed out, please try again later";
+"LGRequestCancel" = "request has been canceled, please try again later";
+"LGRequestErrorFormat" ="request format error, please try again later";
+"LGPhotoPrompt" = "Please take pictures in color background";
+"LGRetakePhoto" = "Retake";
+"LGUsePhoto" = "Use Photo";
+"LGOneMinute" = "one minute";
+"LGMinutesAgo" = "%.f minutes ago";
+"LGHoursAgo" = "%.f hours ago";
+"LGDaysAgo" = "%.f days ago";
+"LGMonthDay" = "M-d";
+"LGYearsAgo" = "%.f years ago";
+"LGYesterDayHoursMinutes" = "M-d HH:mm";
+"LGMorningHoursMinutes" = "aa hh:mm";
+"LGAMHoursMinutes" = "aa hh:mm";
+"LGPMHoursMinutes" = "aa hh:mm";
+"LGEveningHoursMinutes" = "aa hh:mm";
+
+//MARK: MJRefresh
+"MJRefreshHeaderIdleText" = "Pull down to refresh";
+"MJRefreshHeaderPullingText" = "Release to refresh";
+"MJRefreshHeaderRefreshingText" = "Loading...";
+
+"MJRefreshAutoFooterIdleText" = "Tap or pull up to load more";
+"MJRefreshAutoFooterRefreshingText" = "Loading...";
+"MJRefreshAutoFooterNoMoreDataText" = "No more data";
+
+"MJRefreshBackFooterIdleText" = "Pull up to load more";
+"MJRefreshBackFooterPullingText" = "Release to load more.";
+"MJRefreshBackFooterRefreshingText" = "Loading...";
+"MJRefreshBackFooterNoMoreDataText" = "No more data";
+
+"MJRefreshHeaderLastTimeText" = "Last update:";
+"MJRefreshHeaderDateTodayText" = "Today";
+"MJRefreshHeaderNoneLastDateText" = "No record";

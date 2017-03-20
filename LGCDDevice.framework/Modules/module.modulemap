@@ -1,0 +1,6 @@
+framework module LGCDDevice {
+  umbrella header "LGCDDevice.h"
+
+  export *
+  module * { export * }
+}
